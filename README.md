@@ -92,3 +92,11 @@ https://squoosh.app/
 
 https://cssgenerator.org/
 https://box-shadow.dev/
+https://www.joshwcomeau.com/shadow-palette/
+https://www.magicpattern.design/tools/css-backgrounds
+
+https://heropatterns.com/
+https://www.magicpattern.design/tools
+https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/
+https://doodad.dev/pattern-generator/
+https://cssgrid-generator.netlify.app/
