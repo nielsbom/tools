@@ -100,3 +100,5 @@ https://www.magicpattern.design/tools
 https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/
 https://doodad.dev/pattern-generator/
 https://cssgrid-generator.netlify.app/
+https://dummyimage.com/
+<https://fffuel.co/>
