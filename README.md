@@ -101,4 +101,59 @@ https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/
 https://doodad.dev/pattern-generator/
 https://cssgrid-generator.netlify.app/
 https://dummyimage.com/
-<https://fffuel.co/>
+https://fffuel.co
+https://utopia.fyi/
+
+
+Adobe Colorwheel – free
+Colorhunt.co – free
+Coolors – free, has paid version
+https://hue.tools/Hue.tools
+
+
+Google Fonts – 1400+ fonts that are free to use
+Type Wolf – font recommendations and pre-made font combinations
+typespiration – font and color palette inspiration
+Design Inspiration: Fonts – the fonts category on designinspiration.info
+Fonts In Use – examples of fonts used “in the wild”
+Wordmark – visually show all fonts installed on your computer, free
+What the Font – helping you find what font is used in an image
+What Font Is – another tool to help find the font used in an image
+
+Buying fonts
+MyFonts.com
+TypeType
+FontShop
+
+Trying out fonts
+archetype.com
+FontFabric font tester
+
+Some examples of visual design tools:
+Adobe Illustrator – paid vector graphics tool
+Adobe Photoshop – paid raster graphics tool
+Pixelmator – paid vector and raster graphics tool
+Affinity Designer – paid vector and raster graphics tool
+Inkscape – free vector graphics tool
+Figma – paid, versatile tool
+
+Balsamiq
+Moqups – does more than just wireframing
+
+
+AccessibilityChecker.org – free
+WAVE Web Accessibility Evaluation Tool – free
+WebAccessibility.com – free
+Accessibility Checklist – free
+VisBug browser extension – free
+Axe Devtools browser extension – free, has premium version
+Pagespeed Insights – free, does speed and weight testing of a website
+
+https://www.rapidtables.com/web/css/css-color.html#orange
+https://yoksel.github.io/handy-colors/#palettes
+
+https://hslpicker.com/
+
+https://www.ilovepdf.com/
+
+https://randomuser.me/
