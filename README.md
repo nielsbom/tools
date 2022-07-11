@@ -157,3 +157,11 @@ https://hslpicker.com/
 https://www.ilovepdf.com/
 
 https://randomuser.me/
+
+https://jvns.ca/blog/2021/12/15/mess-with-dns/
+
+
+## Docker
+
+- https://www.slim.ai/
+- https://github.com/hadolint/hadolint
