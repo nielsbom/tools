@@ -165,3 +165,8 @@ https://jvns.ca/blog/2021/12/15/mess-with-dns/
 
 - https://www.slim.ai/
 - https://github.com/hadolint/hadolint
+
+## Image editing
+
+- https://cleanupphotos.com/
+- https://www.remove.bg/
