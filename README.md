@@ -49,7 +49,7 @@ Legend
 - <https://squoosh.app/>
 - <https://www.iloveimg.com/>
 
-## ??
+## Misc
 
 <https://sli.dev/>
 <https://app.rawgraphs.io/>
@@ -60,7 +60,6 @@ Making screenshots of code <https://github.com/carbon-app/carbon>
 <https://appmakes.io/paletro>#
 <https://sqlitestudio.pl/>
 
-
 https://www.kevinpowell.co/resources/
 https://browserdefaultstyles.com/
 https://floating-point-gui.de/
@@ -70,7 +69,6 @@ https://www.name-generator.org.uk/
 
 https://loremipsum.io/ultimate-list-of-lorem-ipsum-generators/
 
-
 https://polypane.app/css-specificity-calculator/
 https://specificity.keegan.st/
 https://github.com/GoogleChromeLabs/ProjectVisBug
@@ -79,16 +77,13 @@ https://www.fluid-type-scale.com/
 https://shortcuts.design/
 https://colorbox.io/
 
-
 <https://dummyimage.com/>
 <https://ui-avatars.com/random-avatar-generator/>
 <https://ui-avatars.com/>
 <https://boringavatars.com/>
 <https://getavataaars.com/>
 
-
 https://squoosh.app/
-
 
 https://cssgenerator.org/
 https://box-shadow.dev/
@@ -104,12 +99,10 @@ https://dummyimage.com/
 https://fffuel.co
 https://utopia.fyi/
 
-
 Adobe Colorwheel – free
 Colorhunt.co – free
 Coolors – free, has paid version
 https://hue.tools/Hue.tools
-
 
 Google Fonts – 1400+ fonts that are free to use
 Type Wolf – font recommendations and pre-made font combinations
@@ -140,7 +133,6 @@ Figma – paid, versatile tool
 Balsamiq
 Moqups – does more than just wireframing
 
-
 AccessibilityChecker.org – free
 WAVE Web Accessibility Evaluation Tool – free
 WebAccessibility.com – free
@@ -159,7 +151,6 @@ https://www.ilovepdf.com/
 https://randomuser.me/
 
 https://jvns.ca/blog/2021/12/15/mess-with-dns/
-
 
 ## Docker
 
