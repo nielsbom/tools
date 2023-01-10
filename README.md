@@ -49,7 +49,7 @@ Legend
 - <https://squoosh.app/>
 - <https://www.iloveimg.com/>
 
-## ??
+## Misc
 
 <https://sli.dev/>
 <https://app.rawgraphs.io/>
