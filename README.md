@@ -78,6 +78,7 @@ https://shortcuts.design/
 https://colorbox.io/
 
 <https://dummyimage.com/>
+https://www.placeholder.com/ for placeholder images
 <https://ui-avatars.com/random-avatar-generator/>
 <https://ui-avatars.com/>
 <https://boringavatars.com/>
@@ -178,7 +179,6 @@ https://docs.gitignore.io/
 
 https://favicon.io/
 
-
 https://dockerfile.run/ Install any command in a Docker image.
 
 Postman alternative
@@ -186,3 +186,9 @@ https://restfox.dev/
 https://hoppscotch.io/
 
 https://compressor.io/
+https://pythondocs.xyz/
+
+https://tiny-helpers.dev/
+
+https://csslayout.io/
+https://morguefile.com/
