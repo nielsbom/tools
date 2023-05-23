@@ -84,7 +84,10 @@ https://www.placeholder.com/ for placeholder images
 <https://boringavatars.com/>
 <https://getavataaars.com/>
 
+## Image compression
+
 https://squoosh.app/
+https://compress-or-die.com/
 
 https://cssgenerator.org/
 https://box-shadow.dev/
