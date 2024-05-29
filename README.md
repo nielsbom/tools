@@ -88,6 +88,7 @@ https://www.placeholder.com/ for placeholder images
 
 https://squoosh.app/
 https://compress-or-die.com/
+https://imagemagick.org/script/mogrify.php
 
 https://cssgenerator.org/
 https://box-shadow.dev/
