@@ -181,8 +181,6 @@ https://endoflife.date/
 https://github.com/nvbn/thefuck
 https://docs.gitignore.io/
 
-https://favicon.io/
-
 https://dockerfile.run/ Install any command in a Docker image.
 
 Postman alternative
@@ -199,3 +197,12 @@ https://morguefile.com/
 
 Abstract syntax tree explorer (many languages)
 https://astexplorer.net/
+
+## Favicons
+
+- https://realfavicongenerator.net/
+- https://favicon.io/
+
+## Color conversion
+
+- [RGB to Hex](https://www.rgbtohex.net/)
