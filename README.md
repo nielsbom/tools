@@ -206,3 +206,6 @@ https://astexplorer.net/
 ## Color conversion
 
 - [RGB to Hex](https://www.rgbtohex.net/)
+- [RGB to HSL](https://colordesigner.io/convert/rgbtohsl)
+- [RGB to HSL](https://www.rapidtables.com/convert/color/rgb-to-hsl.html)
+- [Hex to HSL](https://htmlcolors.com/hex-to-hsl)
