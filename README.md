@@ -60,6 +60,8 @@ Making screenshots of code <https://github.com/carbon-app/carbon>
 <https://appmakes.io/paletro>#
 <https://sqlitestudio.pl/>
 
+https://bannerify.co/tools/remove-bg
+
 https://www.kevinpowell.co/resources/
 https://browserdefaultstyles.com/
 https://floating-point-gui.de/
